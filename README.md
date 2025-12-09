@@ -4,6 +4,7 @@ Progetto universitario di **Elettronica di Potenza**.
 
 ## Descrizione
 Studio, analisi e realizzazione di un **convertitore buck-boost** con anello di controllo.  
+
 Simulazioni condotte in **MATLAB e Simulink** per l'ottimizzazione della risposta dinamica e della stabilità del sistema.
 
 ## Strumenti
